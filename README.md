@@ -44,11 +44,8 @@ Leveraging an extensive dataset of **91,320 daily records** across **10 major In
 | **City Comparison** | Compares regional footprints using multi-axis radar plots and seasonal variance bars. |
 | **Weather Extremes** | Renders data distribution profiles, outlier box plots, and ranking leaderboards. |
 
-```text
-Raw Data (10 Cities) ➔ ETL Pipeline (Cleaning & Feature Engineering) ➔ Plotly Aggregations ➔ Automated Insights ➔ Streamlit UI & CSV Downloader
 
-
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 * **Language & Core Libraries:** Python, Pandas, NumPy
 * **Interface & Deployment:** Streamlit (Multi-page state architecture)
 * **Graphics & Visualization:** Plotly Interactive Engine (Histograms, Box plots, Radar charts)
@@ -56,7 +53,7 @@ Raw Data (10 Cities) ➔ ETL Pipeline (Cleaning & Feature Engineering) ➔ Plotl
 
 ---
 
-# 💡 Key Historical Insights
+## 💡 Key Historical Insights
 * 📌 **Northern cities** exhibit substantially wider seasonal variation amplitudes than southern regions.
 * 📌 **Thermal Peaks** reached historical maximums in May, with **Delhi** and **Ahmedabad** topping thresholds at **46.4°C**.
 * 📌 **Mumbai** dominates the annual rainfall distribution footprint, maintaining the highest frequency of heavy precipitation cycles.
@@ -64,7 +61,7 @@ Raw Data (10 Cities) ➔ ETL Pipeline (Cleaning & Feature Engineering) ➔ Plotl
 
 ---
 
-# ⚠️ Limitations & Strategic Future Scope
+## ⚠️ Limitations & Strategic Future Scope
 > **Scope Boundary:** This platform functions as a historical descriptive and diagnostic application.
 
 ### Current Limitations
@@ -74,12 +71,11 @@ Raw Data (10 Cities) ➔ ETL Pipeline (Cleaning & Feature Engineering) ➔ Plotl
 * ❌ **Visual Scope:** Built around statistical charts; completely lacks integrated geospatial GIS mapping layers.
 
 ### 🚀 Strategic Future Scope Roadmap
-
-* ⚡ **Live Weather API Integration:** 
-* 🧠 **Weather Forecasting:** 
-* 🔮 **Climate Anomaly Prediction:** 
-* 🗺️ **Interactive GIS Maps:** 
-* 🚨 **Early Warning Matrix:** 
-* 🍃 **AQI Tracking:**
-* 📄 **PDF Automated Reporting:** 
-* 🤖 **AI Weather Assistant:** 
+* ⚡ **Live Weather API Integration:** Establish automatic webhook data loads.
+* 🧠 **Weather Forecasting:** Deploy Machine Learning engines (Prophet / LSTM) for active forecasting.
+* 🔮 **Climate Anomaly Prediction:** Construct statistical alarms for immediate regional warnings.
+* 🗺️ **Interactive GIS Maps:** Integrate Mapbox or Folium geospatial maps directly.
+* 🚨 **Early Warning Matrix:** Implement programmatic notifications for unexpected extreme weather.
+* 🍃 **AQI Tracking:** Add Air Quality Index records into matching observation models.
+* 📄 **PDF Automated Reporting:** Enable structured server-side executive briefing report generation.
+* 🤖 **AI Weather Assistant:** Provide integrated LLM-driven query assistants for dataset chat.
