@@ -70,12 +70,14 @@ Leveraging an extensive dataset of **91,320 daily records** across **10 major In
 * ❌ **Geographic Constraints:** Structural boundaries are strictly limited to the 10 target urban cities.
 * ❌ **Visual Scope:** Built around statistical charts; completely lacks integrated geospatial GIS mapping layers.
 
-### 🚀 Strategic Future Scope Roadmap
-* ⚡ **Live Weather API Integration:** Establish automatic webhook data loads.
-* 🧠 **Weather Forecasting:** Deploy Machine Learning engines (Prophet / LSTM) for active forecasting.
-* 🔮 **Climate Anomaly Prediction:** Construct statistical alarms for immediate regional warnings.
-* 🗺️ **Interactive GIS Maps:** Integrate Mapbox or Folium geospatial maps directly.
-* 🚨 **Early Warning Matrix:** Implement programmatic notifications for unexpected extreme weather.
-* 🍃 **AQI Tracking:** Add Air Quality Index records into matching observation models.
-* 📄 **PDF Automated Reporting:** Enable structured server-side executive briefing report generation.
-* 🤖 **AI Weather Assistant:** Provide integrated LLM-driven query assistants for dataset chat.
+
+
+### 🚀  Future Scope 
+* ⚡ **Live Weather API Integration:** 
+* 🧠 **Weather Forecasting:** 
+* 🔮 **Climate Anomaly Prediction:** 
+* 🗺️ **Interactive GIS Maps:**
+* 🚨 **Early Warning Matrix:** 
+* 🍃 **AQI Tracking:** 
+* 📄 **PDF Automated Reporting:** 
+* 🤖 **AI Weather Assistant:** 
