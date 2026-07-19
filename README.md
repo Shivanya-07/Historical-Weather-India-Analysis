@@ -24,14 +24,14 @@ Leveraging an extensive dataset of **91,320 daily records** across **10 major In
 ## 🚀 Core Features
 
 ### 📂 Automated ETL Pipeline & Feature Engineering
-* **Data Preprocessing:** Automated script to eliminate duplicates, handle missing signatures, enforce strict date formatting `(YYYY-MM-DD)`, and optimize column data types.
-* **Meteorological Season Mapping:** Algorithmic categorization of calendar dates into standard Indian weather cycles (Winter, Summer, Monsoon, Post-Monsoon).
-* **Derived Metrics & Flags:** Programmatic computation of dynamic *Temperature Ranges* and automated boolean flags for *Heatwaves* and *Heavy Rain* events.
+* **Data Preprocessing:** Automated script for cleaning duplicates, formatting dates `(YYYY-MM-DD)`, and data type optimization.
+* **Seasonal Mapping:** Algorithmic categorization into standard Indian weather cycles (Winter, Summer, Monsoon, Post-Monsoon).
+* **Derived Metrics:** Programmatic calculation of temperature ranges and active flags for heatwaves or heavy rain.
 
 ### 📈 Statistical Visualizations & Insight Automation
-* **Distribution Mechanics:** Cohesive multi-city stacked histograms aligned with horizontal box plots for precise outlier tracking ($Q3 + 1.5 \times IQR$).
-* **Reactive Time-Series:** 30-day moving averages (`.rolling().mean()`) driven by responsive user timeline sliders.
-* **Automatic Insights & Export Engine:** Dynamic backend scripts evaluate user filters to generate instantaneous textual takeaways, paired with an encoded server-side file stream to download customized data subsets directly as CSVs.
+* **Distribution Mechanics:** Stacked histograms and box plots for automated statistical outlier tracking ($Q3 + 1.5 \times IQR$).
+* **Reactive Time-Series:** Responsive user sliders driving 30-day rolling moving averages (`.rolling().mean()`).
+* **Automated Insights & Export:** Dynamic text generation based on user filters with a built-in CSV download engine.
 
 ---
 
@@ -73,11 +73,11 @@ Leveraging an extensive dataset of **91,320 daily records** across **10 major In
 
 
 ### 🚀  Future Scope 
-* ⚡ **Live Weather API Integration:** 
-* 🧠 **Weather Forecasting:** 
-* 🔮 **Climate Anomaly Prediction:** 
-* 🗺️ **Interactive GIS Maps:**
-* 🚨 **Early Warning Matrix:** 
-* 🍃 **AQI Tracking:** 
-* 📄 **PDF Automated Reporting:** 
-* 🤖 **AI Weather Assistant:** 
+* ⚡ **Live Weather API Integration** 
+* 🧠 **Weather Forecasting** 
+* 🔮 **Climate Anomaly Prediction** 
+* 🗺️ **Interactive GIS Maps**
+* 🚨 **Early Warning Matrix** 
+* 🍃 **AQI Tracking** 
+* 📄 **PDF Automated Reporting** 
+* 🤖 **AI Weather Assistant** 
