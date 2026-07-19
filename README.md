@@ -1,4 +1,4 @@
-# 🌦️ India Historical Weather Analytics: Climate Intelligence Dashboard
+#  🌦️ India Historical Weather Analysis Dashboard
 
 ## 📌 Project Overview
 An advanced **Climate Intelligence Dashboard** built for deep exploratory analysis, feature engineering, and statistical anomaly tracking of historical weather patterns in India. 
@@ -24,13 +24,13 @@ Leveraging an extensive dataset of **91,320 daily records** across **10 major In
 ## 🚀 Core Features
 
 ### 📂 Automated ETL Pipeline & Feature Engineering
-* **Data Preprocessing:** Automated script for cleaning duplicates, formatting dates `(YYYY-MM-DD)`, and data type optimization.
+* **Data Preprocessing:** Cleaned and structured dataset tracking duplicates, standard date formats, and correct data types.
 * **Seasonal Mapping:** Algorithmic categorization into standard Indian weather cycles (Winter, Summer, Monsoon, Post-Monsoon).
 * **Derived Metrics:** Programmatic calculation of temperature ranges and active flags for heatwaves or heavy rain.
 
 ### 📈 Statistical Visualizations & Insight Automation
-* **Distribution Mechanics:** Stacked histograms and box plots for automated statistical outlier tracking ($Q3 + 1.5 \times IQR$).
-* **Reactive Time-Series:** Responsive user sliders driving 30-day rolling moving averages (`.rolling().mean()`).
+* **Distribution Mechanics:** Interactive stacked histograms and box plots configured for identifying potential climate outliers.
+* **Reactive Time-Series:** Interactive trend lines driven by user-selected date ranges and moving averages.
 * **Automated Insights & Export:** Dynamic text generation based on user filters with a built-in CSV download engine.
 
 ---
