@@ -53,6 +53,16 @@ Leveraging an extensive dataset of **91,320 daily records** across **10 major In
 
 ---
 
+### 🌐 Streamlit Application
+
+
+https://historical-weather-india-analysis-sf3jy324lr5by5jkw4dl8s.streamlit.app/
+
+Interactive interface containing:
+
+* Dashboard page
+
+
 ## 💡 Key Historical Insights
 * 📌 **Northern cities** exhibit substantially wider seasonal variation amplitudes than southern regions.
 * 📌 **Thermal Peaks** reached historical maximums in May, with **Delhi** and **Ahmedabad** topping thresholds at **46.4°C**.
